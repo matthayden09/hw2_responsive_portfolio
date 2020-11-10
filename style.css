@@ -6,7 +6,7 @@ body {
 
 
 .navbar-brand {
-    background-color: aquamarine;
+    background-color: tomato;
     padding: 5px;
 }
 
@@ -15,29 +15,26 @@ body {
     margin-top: 50px;
     margin-left: 50px;
     background-color: white;
-    
-
 }
 
 h1 {
     color: tomato;
+    padding-bottom: 20px;
    
 }
 
 .details-1 {
     line-height: 1.5;
-    padding-top: 10px;
-    padding-bottom: 10px;
-   
-  
+    padding-bottom: 20px;
 }
 
 .details-2 {
     line-height: 1.5;
-    
+    }
+
+.img-fluid {
+    padding-bottom: 20px;
+
 }
 
-.geralt {
-    
-    
-}
+
